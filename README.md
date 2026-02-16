@@ -1,2 +1,2 @@
 # OpenWeather API
-Documentation for OPenWeatherAPI
+Documentation for CurrentWeatherAPI
