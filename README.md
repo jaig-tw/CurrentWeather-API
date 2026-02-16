@@ -6,7 +6,7 @@ Following tools have been used for the preparation of the document:
 - Swagger Editor
 # Files Included
 - Final API Document (PDF and Markdown formats)
-- YAML File
+- YAML and JSON Files
 - Miscellaneous working files
 ## Note
 This document is for portfolio purpose only
