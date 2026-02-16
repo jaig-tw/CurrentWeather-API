@@ -4,5 +4,9 @@ It is an API documentation for CurrentWeatherAPI
 Following tools have been used for the preparation of the document:
 - Postman
 - Swagger Editor
+# Files Included
+- Final API Document
+- YAML File
+- Miscellaneous working files
 ## Note
 This document is for portfolio purpose only
