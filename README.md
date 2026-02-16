@@ -5,7 +5,7 @@ Following tools have been used for the preparation of the document:
 - Postman
 - Swagger Editor
 # Files Included
-- Final API Document
+- Final API Document (PDF and Markdown formats)
 - YAML File
 - Miscellaneous working files
 ## Note
